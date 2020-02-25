@@ -1,0 +1,221 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "education": "Education",
+    "skills": "Skills",
+    "work": "Experience ",
+    "projects": "Projects",
+    "awards": "Awards"
+  },
+  "basics": {
+    "name": "Yasser Arafat",
+    "email": "yasser.info.work@gmail.com",
+    "phone": "+91-8876840474",
+    "location": {
+      "address": "Sikkim,India"
+    },
+    "website": "https://github.com/CodeDude19"
+  },
+  "education": [{
+      "location": "Sikkim,India",
+      "area": "Computer Science ",
+      "studyType": "BTech",
+      "startDate": "July 2017",
+      "endDate": "August 2021",
+      "gpa": "8.6",
+      "institution": "Sikkim Manipal Institute of Technology"
+    },
+    {
+      "institution": "Maharishi Vidya Mandir",
+      "location": "Assam,India",
+      "studyType": "Senior Secondary ",
+      "area": "Science",
+      "gpa": "8.0",
+      "startDate": "June 2015",
+      "endDate": "April 2017"
+    },
+    {
+      "institution": "Little Flower School",
+      "location": "Assam,India",
+      "studyType": "Higher Secondary",
+      "area": "Science ",
+      "gpa": "9.4",
+      "startDate": "2005",
+      "endDate": "March 2015"
+    }
+  ],
+  "work": [{
+      "company": "D'CoderS Coding Club",
+      "location": "Sikkim,India",
+      "position": "Mentor ",
+      "website": "",
+      "startDate": "July 2019",
+      "endDate": "August 2021",
+      "highlights": [
+        "Mentoring Club Members in Competitive Coding, App Development, Web Development."
+      ]
+    },
+    {
+      "company": "Micro-Pro",
+      "location": "Sikkim,India",
+      "position": "Industrial Trainee",
+      "website": "",
+      "startDate": "June 2019",
+      "endDate": "July 2019",
+      "highlights": [
+        "Completed an Android Training under Micro-Pro India."
+      ]
+    },
+    {
+      "company": "ICCAP",
+      "location": "Sikkim,India",
+      "highlights": [
+        "Student Volunteer at International Conference on Advanced Computational and Communication Paradigms(ICCAP)."
+      ],
+      "position": "Student Volunteer",
+      "endDate": "February 2019"
+    },
+    {
+      "company": "Competitive Coder at CodeChef",
+      "location": "Sikkim,India",
+      "position": "Competitive Coding using STL C++ ",
+      "website": "https://www.codechef.com/users/codedude19",
+      "startDate": "September 2018",
+      "endDate": "Present",
+      "highlights": [
+        "CodeChef 3 Star Rating"
+      ]
+    }
+  ],
+  "skills": [{
+      "name": "Programming Langugages",
+      "level": "",
+      "keywords": [
+        "C++ STL",
+        "Java",
+        "Python",
+        "C#",
+        "GML."
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "MySQL",
+        "SQLite",
+        "MongoDB."
+      ]
+    },
+    {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Android Studio",
+        "Java",
+        "XML .",
+        "Angular",
+        "Flutter"
+      ],
+      "name": "App/Web Developement"
+    },
+    {
+      "keywords": [
+        "Game Maker Scripting Language and Box2D Physics Engine."
+      ],
+      "name": "Game Development"
+    },
+    {
+      "keywords": [
+        "Coursera Machine Learning Certification."
+      ],
+      "name": "Machine Learning"
+    }
+  ],
+  "projects": [{
+      "keywords": [
+        "Python",
+        "NodeJS"
+      ],
+      "name": "Product Recommendation Engine",
+      "description": "Created a Product Recommendation Engine  for Dell Technologies ,based on User Browsing Activities captured using Ad-Services.",
+      "url": "Github"
+    },
+    {
+      "title": "Dell Hack2Hire Hackthon Winner",
+      "date": "Nov 2019",
+      "awarder": "DELL Technologies",
+      "summary": "Won the Hack2Hire Hackathon Conducted by Dell Technologies."
+    },
+    {
+      "keywords": [
+        "Java",
+        "XML",
+        "Firebase",
+        "Illustrator"
+      ],
+      "url": "Github",
+      "description": "Developed a Cab Booking System specifically for Sikkim,India.",
+      "name": "Cargo App"
+    },
+    {
+      "keywords": [
+        "Python",
+        "HTML",
+        "CSS",
+        "JAVASCRIPT"
+      ],
+      "name": "SMIT Tracker",
+      "description": "Developed a WebApp for Sikkim Manipal Institute to check the GPA and Performance of College Students using automated Scraping of Data.",
+      "url": "Github"
+    },
+    {
+      "keywords": [
+        "C#",
+        "Visual Studio"
+      ],
+      "name": "Windows Optimizer",
+      "description": "Developed a Desktop Application for Windows Platform that Reduces Current RAM usage and CPU usage in real time by freeing Resourses based on Priority.",
+      "url": "Github"
+    },
+    {
+      "keywords": [
+        "Box2D",
+        "GML Scripting",
+        "Illustrator"
+      ],
+      "name": "Bounce ",
+      "description": "Developed a Physics Based Single Player Bounce Game for Android and Windows Platform.",
+      "url": "Github"
+    }
+  ],
+  "awards": [{
+      "title": "Dell Hack2Hire Hackthon Winner",
+      "date": "Nov 2019",
+      "awarder": "Dell Technologies",
+      "summary": "Won the Hack2Hire Hackathon Conducted by Dell Technologies."
+    },
+    {
+      "title": "Global Rank of 885",
+      "date": "June 2019",
+      "awarder": "CodeChef",
+      "summary": "Competed in CodeChef Long Challenge June 2019 and won Global Rank of 885."
+    },
+    {
+      "title": "Web Development Hackathon",
+      "date": "March 2019",
+      "awarder": "TechAdrista",
+      "summary": "Won Web Development Hackathon held in SMIT Techical Fest,TechAdrista."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
